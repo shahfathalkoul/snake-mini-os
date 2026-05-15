@@ -1,0 +1,19 @@
+# Compiled binary
+snake
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Environment
+.env*
+
+# Debug
+*.log
+
+# High score file
+.snake_highscore
